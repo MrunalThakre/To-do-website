@@ -9,7 +9,7 @@ h1{
 }
 
 body{
-    background-image: url(/Project2/background.jpg);
+    background-image: url(background.jpg);
     background-size: 100vw 100vh;
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.5);
